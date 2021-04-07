@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+    height: 100vh;
+    background:black;
+}
+
+.btn {
+    background-color: rgb(224, 6, 53);
+    color: white;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 20px 40px;
+
+}
+.btn:hover {
+    background-color: violet;
+    border:none;
+}
+img {
+    width: 100%;
+}
+.modal-header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.btn-close {
+    background-color: rgb(168, 0, 140);
+    color: white;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 10px 14px;
+
+}
+
